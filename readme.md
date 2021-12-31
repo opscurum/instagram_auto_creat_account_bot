@@ -1,6 +1,6 @@
 
 
-pip install -r requirements.txt
+
 
 
 1:  You have to download selenium from cmd command.     pip install selenium
